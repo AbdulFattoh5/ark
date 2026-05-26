@@ -290,7 +290,6 @@ const PREVIEW_WIDTH = 188;
 
 const dragPreviewStyle = computed(() => {
   if (!dragging.value) return {};
-  const lo = Math.min(dragging.value.startIdx, dragging.value.currentIdx);
   const hi = Math.max(dragging.value.startIdx, dragging.value.currentIdx);
   const startMin = Math.min(dragging.value.startMin, dragging.value.currentMin);
   const rightEdge = TIME_AXIS_WIDTH + (hi + 1) * COL_WIDTH + 8;
