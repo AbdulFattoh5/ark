@@ -4,7 +4,7 @@
 
 ## 🚀 Демо
 
-**[→ Открыть приложение](https://abdulfattoxtoshkenboyev.github.io/ark-task/)**
+**[→ Открыть приложение](https://ark-task.netlify.app/)**
 
 ---
 
